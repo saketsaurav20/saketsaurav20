@@ -3,20 +3,20 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=saketsaurav alt=saketsaurav/> </p>
 <p align="center">
  &nbsp;&nbsp;
-<a href="https://dev.to/adityasharan01"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+<!-- <a href="https://dev.to/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> -->
 &nbsp;&nbsp; 
-  <a target="_blank" href="https://www.linkedin.com/in/aditya-sharan/">
+  <a target="_blank" href="https://www.linkedin.com/in/saket-saurav-69b15413a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 &nbsp;&nbsp;
-  <a href="mailto:ranjan.aditya2009@gmail.com?subject=Hello%20AdityaSharan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saket.saurav20@gmail.com?subject=Hello%20SaketSaurav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/adityasharan01/adityasharan01/blob/master/github%20intro%20final.gif" alt="Sublime's custom image"/>
+<!--   <img src="https://github.com/" alt="Sublime's custom image"/> -->
   
   <img src="https://user-images.githubusercontent.com/46247882/87126810-77e5d000-c2aa-11ea-832f-70aa4fe394f9.gif" alt="alt text" width="150" height="150" />
 </p>
 <p align="center"> 
-<img src = "https://github-readme-stats.vercel.app/api?username=adityasharan01&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img src = "https://github-readme-stats.vercel.app/api?username=saketsaurav20&hide=stars,prs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 </p>
 
 🔭 I’m currently exploring new opportunities.
@@ -25,9 +25,9 @@
  
 👯 I’m looking to collaborate on frontend projects.
 
- 📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/adityasharan01?tab=repositories) 
+ 📌 You can check out my repositories on which i have worked on by clicking this [link](https://github.com/saketsaurav20?tab=repositories) 
 
-📫 How to reach me: Gmail - [Link](mailto:ranjan.aditya2009@gmail.com) , Instagram - [@adityasharan01](https://www.instagram.com/adityasharan811/)
+📫 How to reach me: Gmail - [Link](mailto:saket.saurav20@gmail.com)
 ### 🛠 &nbsp;My skills 🚀
 
 
@@ -48,16 +48,8 @@
  
 </p>
 
-## My Blogs
-<p >
- &nbsp;&nbsp;
-<a href="https://dev.to/adityasharan01"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> 
-</p>
 
 ![connect-with-me.png](./connect-with-me.png.png)
 
-[twitter]: https://twitter.com/AdityaS54830043
 
-
-https://github.com/danieldelcore/mega-interview-guide
 
